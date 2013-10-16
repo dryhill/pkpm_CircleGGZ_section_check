@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Project SYSTEM "Project-5.1.dtd">
+<!-- eric5 project file for project pkpm_CircleGGZ_section_check -->
+<!-- Saved: 2013-06-09, 16:37:23 -->
+<!-- Copyright (C) 2013 Li.cy,  -->
+<Project version="5.1">
+  <Language></Language>
+  <Hash>78ff7498255794eceba3f5a14820fc64c7595164</Hash>
+  <ProgLanguage mixed="0">Python3</ProgLanguage>
+  <ProjectType>Qt4</ProjectType>
+  <Description>2013.5.22</Description>
+  <Version>0.1</Version>
+  <Author>Li.cy</Author>
+  <Email></Email>
+  <Sources>
+    <Source>__init__.py</Source>
+    <Source>material.py</Source>
+    <Source>read_main.py</Source>
+    <Source>class_pkpm_ggz_result.py</Source>
+    <Source>Ui_main_ui.py</Source>
+    <Source>main_ui.py</Source>
+  </Sources>
+  <Forms>
+    <Form>main_ui.ui</Form>
+  </Forms>
+  <Translations/>
+  <Resources/>
+  <Interfaces/>
+  <Others/>
+  <Vcs>
+    <VcsType>None</VcsType>
+  </Vcs>
+  <FiletypeAssociations>
+    <FiletypeAssociation pattern="*.idl" type="INTERFACES"/>
+    <FiletypeAssociation pattern="*.py" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.py3" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.pyw" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.pyw3" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.qm" type="TRANSLATIONS"/>
+    <FiletypeAssociation pattern="*.qrc" type="RESOURCES"/>
+    <FiletypeAssociation pattern="*.ts" type="TRANSLATIONS"/>
+    <FiletypeAssociation pattern="*.ui" type="FORMS"/>
+    <FiletypeAssociation pattern="*.ui.h" type="FORMS"/>
+  </FiletypeAssociations>
+</Project>
